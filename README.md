@@ -1,7 +1,7 @@
 # Zara-Sales-Analysis
 
 ## Introduction
-This retail analysis project utilizes a Zara 2025 sales activity dataset representing clothes sales. The goal of the project is to practice using Power BI on a real dataset to answer questions about factors that drive sale performance. To view the pbix file, download it and open it using Power BI desktop. Included under the Images folder are screenshots of all the report pages.
+This retail analysis project utilizes a Zara 2025 sales activity dataset representing clothes sales. The goal of the project is to practice using Power BI on a real dataset to answer questions about factors that drive sale performance. To view the pbix file, download it and open it using Power BI desktop. Additionally, included under the Images folder are screenshots of all the report pages.
 
 ## About the dataset
 The dataset is a csv file containing 17 attributes, 999+ rows, and the following notable attributes:
